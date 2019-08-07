@@ -95,7 +95,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="4dp"
-                android:text="Set Color For Swipe Back Page "/>
+                android:text="Set Color For Swipe Return Page "/>
 
             <Button
                 android:id="@+id/btn_switch_mode"
