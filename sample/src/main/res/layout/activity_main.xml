@@ -103,7 +103,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="4dp"
-                android:text="Switch Light or Dark Mode"/>
+                android:text="Switch Light or Dark"/>
 
         </LinearLayout>
     </FrameLayout>
